@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"pan",
+				"panel-body"
+			],
+			[
+				"pane",
+				"panel-primary"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"btn-d",
+				"btn-danger"
+			],
+			[
+				"for",
+				"form-group"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"col-sm",
+				"col-sm-4"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"tab",
+				"table-responsive"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"t",
+				"tbody\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"container-decor"
+			],
+			[
+				"vis",
+				"visible-sm"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"impo",
+				"important-text"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"wid",
+				"max-width\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"heig",
+				"min-height\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"Fav",
+				"Fav"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Lannisr",
+				"Lannisters"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"marin",
+				"margin-left\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"learn_bootstrap.html"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Coding/Bootstrap/Internshala/breakpoints.html",
+		"/D/Coding/Bootstrap/Internshala/jumbotron-glyphicon.html",
+		"/D/Coding/Bootstrap/Internshala/multiple-classes.html",
+		"/D/Coding/HTML/Internshala/first.html",
+		"/D/Coding/HTML/Internshala/style.css",
+		"/D/Coding/HTML/Internshala/Assignments/HTML-CSS solution/index.html",
+		"/D/Coding/HTML/Internshala/Assignments/HTML-CSS solution/index.css",
+		"/D/Coding/HTML/Internshala/Assignments/HTML-CSS-Assignment/HTML-CSS-Assignment/assignment1.html",
+		"/D/Coding/HTML/Internshala/Assignments/HTML-CSS-Assignment/HTML-CSS-Assignment/assignment1.css",
+		"/D/Coding/C++/Hackerrank/list_of_strings.cpp",
+		"/D/Coding/C++/Hackerrank/print_number_till_specific_decimal.cpp",
+		"/D/Coding/C++/Hackerrank/pointers&abs.cpp",
+		"/D/Coding/C++/Hackerrank/vectors_2d.cpp",
+		"/D/Coding/C++/Hackerrank/Structures.cpp",
+		"/D/Coding/C++/Hackerrank/strings.cpp",
+		"/D/Coding/HTML/Internshala/color.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
